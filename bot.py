@@ -5,8 +5,8 @@ import time
 import os
 
 # 🔐 Ваші налаштування:
-TOKEN = '7813991406:AAHC8GuveP9lIPbq2GipFtP5e9vnp1EY-Bk'
-ADMIN_ID = 1496554517  # Замінити на свій Telegram ID
+TOKEN = ''
+ADMIN_ID =  # Замінити на свій Telegram ID
 URL = f'https://api.telegram.org/bot{TOKEN}/'
 DATA_FILE = 'data.json'
 
